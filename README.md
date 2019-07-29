@@ -7,3 +7,4 @@
 - [修改最近一次commit的comment](https://github.com/AILINGANGEL/WorkingTips/issues/1)
 - [取消最近一次已经add但是还没有commit的文件](https://github.com/AILINGANGEL/WorkingTips/issues/2)
 - [查看之前的commit都做了什么改动](https://github.com/AILINGANGEL/WorkingTips/issues/3)
+- [拉取远程某个指定的分支](https://github.com/AILINGANGEL/WorkingTips/issues/4)
