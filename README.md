@@ -13,3 +13,7 @@
 
 ## 2. linux相关
 - [常用命令](https://github.com/AILINGANGEL/WorkingTips/issues/5)
+
+
+## 3.前端开发工程相关
+- [lerna](https://github.com/AILINGANGEL/WorkingTips/issues/6)
